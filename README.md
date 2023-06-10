@@ -28,7 +28,7 @@ This project aims to demonstrate the implementation of a drag and drop interface
 
 To get the project up and running on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/drag-and-drop-project.git`
+1. Clone the repository: `git clone https://github.com/a-singh09/drag-and-drop-project.git`
 2. Navigate to the project directory: `cd drag-and-drop-project`
 
 ## Usage
